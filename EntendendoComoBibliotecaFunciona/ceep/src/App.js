@@ -12,5 +12,5 @@ export default class App extends Component {
             <ListaDeNotas />  
         </section>
       );
-    }
+   }
 }
