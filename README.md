@@ -6,3 +6,4 @@
 - npm start
 - tudo que estiver entre chaves é codigo JavaScript
 - colocando _ na frente do nome do metódo o torna privado
+![Alt text](https://github.com/silvarafaell/Formacao_React_Alura/blob/main/EntendendoComoBibliotecaFunciona/ceep/src/images/Home.png?raw=true "Home ceep")
